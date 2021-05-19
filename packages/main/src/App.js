@@ -5,6 +5,7 @@ import { Button } from "@aamir/common";
 function App() {
   return (
     <div className="App">
+      <Button label="material" />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,7 +20,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <Button label="material" />
     </div>
   );
 }
