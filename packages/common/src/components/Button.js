@@ -3,7 +3,7 @@ import Button from "@material-ui/core/Button";
 
 const CusButton = ({ label }) => (
   <Button variant="text" color="default">
-    {label} kkk hh
+    {label}
   </Button>
 );
 
